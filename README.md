@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Dhanush Mohanaraja
--  Student at BANNARI AMMAN INSTITUTE OF TECHNOLOGY
--  3rd year in UG - EEE dept
+- 💞️ASpiring Full stack development !
+- Electrical Engineer yet Software Engineer By Heart 
+- Graduated at BANNARI AMMAN INSTITUTE OF TECHNOLOGY
 - 👀 I personally enjoy solving coding problems ('cause I love the thrill in it!) 
-- 🌱 I’m currently learning Digital marketing
-- 💞️ I'm looking forward to become an expert in Full stack development & Digital marketing !
+
 - 📫 How to reach me -
 -  linked in : https://www.linkedin.com/in/dhanushmohanaraja/
 -  Mail : dhanushmohanaraja@gmail.com
