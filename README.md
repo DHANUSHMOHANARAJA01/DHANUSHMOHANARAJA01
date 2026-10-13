@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Dhanush Mohanaraja
-- 💞️ASpiring Full stack development !
-- Electrical Engineer yet Software Engineer By Heart 
+- GenAI Engineer
 - Graduated at BANNARI AMMAN INSTITUTE OF TECHNOLOGY
-- 👀 I personally enjoy solving coding problems ('cause I love the thrill in it!) 
+- 👀 I personally enjoy building solutions using my engineering magic and make the world a better place ('cause I love the thrill in it!) 
 
 - 📫 How to reach me -
 -  linked in : https://www.linkedin.com/in/dhanushmohanaraja/
