@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dhanush Mohanaraja
-- GenAI Engineer
+- GenAI Engineer in Healthcare industry and responsible for architecting Agentic systems.
 - Graduated at BANNARI AMMAN INSTITUTE OF TECHNOLOGY
-- 👀 I personally enjoy building solutions using my engineering magic and make the world a better place ('cause I love the thrill in it!) 
+- 👀 I personally enjoy building solutions using my engineering magic and make this world a better place!
 
 - 📫 How to reach me -
 -  linked in : https://www.linkedin.com/in/dhanushmohanaraja/
